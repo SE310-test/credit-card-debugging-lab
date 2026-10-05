@@ -1,4 +1,4 @@
-# Credit Card Debugging Lab -edited
+# Credit Card Debugging Lab
 
 A compact Java 17 + JUnit 5 project for a one-hour graduate debugging workshop.
 
